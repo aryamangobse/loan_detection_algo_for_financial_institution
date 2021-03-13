@@ -1,1 +1,1 @@
-# loan_detection_algo_for_financial_institution
+# loan_detection_algorithm_for_financial_institution
